@@ -2,7 +2,7 @@
 1) Programación orientada a objetos. 
 
 Los resultados se muestran utilizando el archivo main.py. 
-La construcción de la clase y los métodos se encuantran el el archivo vehiculo.py.
+La construcción de la clase y los métodos se encuantran en el archivo vehiculo.py.
 
 2) Resolución de problemas matemáticos
 
