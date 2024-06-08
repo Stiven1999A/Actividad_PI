@@ -31,8 +31,10 @@ else:
 # Método post
 new_post_data = {
     'userId': 1, 
-    'title': 'Nuevo Post',
-    'body': 'Contenido del nuevo post...'
+    'title': 'User',
+    'name': 'Estiben',
+    'email': 'estibengon@email.com',
+    'username': 'EstibenGon'
 }
 
 response_post = requests.post(url='https://jsonplaceholder.typicode.com/posts',
